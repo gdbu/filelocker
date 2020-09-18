@@ -1,2 +1,2 @@
-./cli/filelocker/filelocker
-./cli/filelocker/test.txt
+cli/filelocker/filelocker
+cli/filelocker/test.txt
